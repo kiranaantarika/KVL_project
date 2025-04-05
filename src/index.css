@@ -10,7 +10,7 @@ body, html {
   width: 100vw;
   height: 100vh;
   background-image:  linear-gradient(rgba(105, 16, 16, 0.5), rgba(14, 13, 13, 0.7)),
-                    url('/public/images/beautiful-flowers-field.jpg');
+                    url('/public/images/beautiful-green-park.jpg');
   background-size: 120%;
   background-repeat: no-repeat;
   background-position: center;
