@@ -7,7 +7,7 @@ function App() {
     <div className="main-container">
       {/* Top Center Link */}
       <div className="top-link">
-        <a href="https://klg.co.in" target="_blank" rel="noopener noreferrer">
+        <a href="#" target="_blank" rel="noopener noreferrer">
           klg.co.in
         </a>
       </div>
@@ -21,7 +21,7 @@ function App() {
 
       {/* Bottom Center Link */}
       <div className="bottom-link">
-        <a href="mailto:support@klg.co.in">klg.co.in 2025</a>
+        <a href="#" >klg.co.in 2025</a>
       </div>
     </div>
   );
