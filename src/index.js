@@ -15,13 +15,13 @@ function App() {
       <div className="overlay">
         <div className="title-box">
           <h1>Maintenance mode is on</h1>
-          <p>Site will be available soon. Thankyou for your patience!</p>
+          <p>Site will be available soon.Thankyou for your patience!</p>
         </div>
       </div>
 
       {/* Bottom Center Link */}
       <div className="bottom-link">
-        <a href="mailto:support@klg.co.in">klg.co.in</a>
+        <a href="mailto:support@klg.co.in">klg.co.in 2025</a>
       </div>
     </div>
   );
