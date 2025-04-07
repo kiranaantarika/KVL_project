@@ -15,7 +15,7 @@ function App() {
       <div className="overlay">
         <div className="title-box">
           <h1>Maintenance mode is on</h1>
-          <p>Site will be available soon.Thankyou for your patience!</p>
+          <p>Site will be available soon.Thank you for your patience!</p>
         </div>
       </div>
 
