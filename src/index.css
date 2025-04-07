@@ -63,7 +63,7 @@ body, html {
 }
 
 .title-box p {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   color: rgba(255, 255, 255, 0.85);
 }
 
@@ -107,14 +107,23 @@ body, html {
   }
 
   .title-box p {
-    font-size: 12px;
+    font-size: 14px;
   }
+
+  /* ✅ Top Center Link */
+.top-link {
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
 }
 
 /* ✅ Top Center Link */
 .top-link {
   position: absolute;
-  top: 20px;
+  top: 80px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 2;
@@ -136,7 +145,7 @@ body, html {
 /* ✅ Bottom Center Link */
 .bottom-link {
   position: absolute;
-  bottom: 20px;
+  bottom: 120px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 2;
